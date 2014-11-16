@@ -7,8 +7,12 @@ Goals:
 ------
 
 - 0 to dev
-- make something cool 
+- make something cool
 - learn stuff
+  - HTML
+  - CSS
+  - Bootstrap
+
 
   Byproducts:
   -----------
