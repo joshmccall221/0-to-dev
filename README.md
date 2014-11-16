@@ -10,6 +10,10 @@ Goals:
 - make something cool 
 - learn stuff
 
+  Byproducts:
+  -----------
+  -  agile, continuous integration, SCM(git)
+
 
 Links: 
 ------
