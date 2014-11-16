@@ -6,16 +6,16 @@ CodeAcademy
 Goals:
 ------
 
-- 0 to dev
-- make something cool
-- learn stuff
-  - HTML
-  - CSS
-  - Bootstrap
+- 0 to dev  
+- make something cool  
+- learn stuff 
+  - [ ] HTML
+  - [ ] CSS
+  - [ ] Bootstrap
 
 
-  Byproducts:
-  -----------
+ Byproducts:
+ -----------
   -  agile, continuous integration, SCM(git)
 
 
