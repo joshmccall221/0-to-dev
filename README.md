@@ -26,11 +26,11 @@ This guide (when complete) will walk through:
 
 CodeAcademy
 ===========
-CodeAcadmey is awesome!
+[CodeAcadmey](http://www.codecademy.com/) is awesome!
 
 See this [nytimes article](http://www.nytimes.com/2012/03/28/technology/for-an-edge-on-the-internet-computer-code-gains-a-following.html?_r=0)
 
- http://www.codecademy.com/  
+   
 ```
 codeacademy.com:
   "The sites and services catering to the learn-to-program market number in the dozens." 
