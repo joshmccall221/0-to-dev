@@ -14,9 +14,11 @@ Goals:
   - [ ] Bootstrap
 
 
- Byproducts:
- -----------
-  -  agile, continuous integration, SCM(git)
+<h4> Byproducts: </h4>
+
+  -  agile 
+  -  continuous integration 
+  -  SCM(git)
 
 
 Links: 
