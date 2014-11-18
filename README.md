@@ -1,24 +1,40 @@
+
+0 to dev / Web Developer Skills / Make a Website
+===========
+
+Preface
+--------
+
+Whether picking up a new skill or refreshing on long forgotten syntax we often ask whats the fastest, most effiecent way to go from 0 to proficent/shippable/expert. This write is designed to be used as a code kata or first steps for aspiring web devs. 
+
+Objectives:
+-----------
+
+This guide (when complete) will walk through:
+  - [ ] html
+  - [ ] css
+  - [ ] javascript
+  - [ ] implementing mobile responsive site with bootstrap 
+  - [ ] use github to backup and share projects (agile development method, continuous integration)
+  - [ ] use github pages to host our site (for free!)
+  - [ ] use jekyll, a "blog-aware, static site generator", to manage our site
+  - [ ] maybe even convert readers to be a die hard vim enthusiast
+
+
+
+
+
 CodeAcademy
 ===========
 
 
 
-Goals:
-------
-
-- 0 to dev  
-- make something cool  
-- learn stuff 
-  - [ ] HTML
-  - [ ] CSS
-  - [ ] Bootstrap
 
 
-<h4> Byproducts: </h4>
 
-  -  agile 
-  -  continuous integration 
-  -  SCM(git)
+
+
+
 
 
 Links: 
@@ -52,3 +68,5 @@ codeacademy.com:
 Useful: 
 -------
 -  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+-  http://www.iuniverse.com/ExpertAdvice/EditorialGuidelines/Parts.aspx
+-  http://www.codecademy.com/en/goals/web-beginner-en-3pc6w
