@@ -30,8 +30,8 @@ CodeAcadmey is awesome!
 
 See this [nytimes article](http://www.nytimes.com/2012/03/28/technology/for-an-edge-on-the-internet-computer-code-gains-a-following.html?_r=0)
 
- http://www.codecademy.com/
-    ```
+ http://www.codecademy.com/  
+```
 codeacademy.com:
   "The sites and services catering to the learn-to-program market number in the dozens." 
 
@@ -46,16 +46,18 @@ codeacademy.com:
   made a public New Year’s resolution to use the site to learn how to code. The site is free. 
   Its creators hope to make money in part by connecting newly hatched programmers with 
   recruiters and start-ups.
-    ```
+```
 
 
-Features: 
+Features:
+---------
 
 When learning a new technology it can be rough due to the inevitable 'gotchas' that come with working not knowing what you dont know. CodeAcademy has you covered with tutorials, built in editors, instant feedback and a preview window that can be put into fullscreen. 
 
 Ok, enough background/intro/filler, lets code cool stuff!
 
 Make a Website
+--------------
 
 
 
